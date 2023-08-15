@@ -6,7 +6,7 @@ Currently, my main project I work on is [EmailEngine](https://emailengine.app/?u
 
 -----
 
-![](https://emailengine.app/lib_pTNsKLAHHUZrxQKE/6etgoat1wj19t5o5.png?w=80)
+![](https://emailengine.app/lib_pTNsKLAHHUZrxQKE/xwb20trbbhmhskes.png?w=80)
 
 
 **[EmailEngine](https://emailengine.app/?utm_source=github&utm_campaign=github-profile&utm_medium=github-profile)**
